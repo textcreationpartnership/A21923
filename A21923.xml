@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes Maiesties proclamation, 1. For obseruation of former orders against ingrossers, [and] regraters of corne 2. And to see the markets furnished with corne. 3. And also against the carying of corne out of the realme. 4. And a prohibition to men of hospitalitie from remoouing from their habitation in the time of dearth. 5. And finally a strait commandement to all officers hauing charge of forts to reside thereon personally, and no inhabitant to depart from the sea coast.</title>
+            <title>Proclamations. 1596-11-02</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21923</idno>
+            <idno type="STC">STC 8255</idno>
+            <idno type="STC">ESTC S115523</idno>
+            <idno type="EEBO-CITATION">99850742</idno>
+            <idno type="PROQUEST">99850742</idno>
+            <idno type="VID">15968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15968)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:104)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes Maiesties proclamation, 1. For obseruation of former orders against ingrossers, [and] regraters of corne 2. And to see the markets furnished with corne. 3. And also against the carying of corne out of the realme. 4. And a prohibition to men of hospitalitie from remoouing from their habitation in the time of dearth. 5. And finally a strait commandement to all officers hauing charge of forts to reside thereon personally, and no inhabitant to depart from the sea coast.</title>
+                  <title>Proclamations. 1596-11-02</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1596]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date from STC.</note>
+                  <note>Forbidding engrossing or export of grain; ordering gentlemen to return to their homes and officers to their forts.--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wheat trade --  England --  Early works to 1800.</term>
+               <term>Wheat --  Prices --  Early works to 1800.</term>
+               <term>Grain --  England --  Prices --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:15968:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> 
+               <hi>By the Queene.</hi> 
+               <g ref="char:leaf">❧</g> The Queenes Maiesties Proclamation, <hi>1.</hi> For obſeruation of former Orders against Jngroſsers, &amp; Regraters of Corne, <hi>2.</hi> And to ſee the Markets furniſhed with Corne. <hi>3.</hi> And alſo against the carying of Corne out of the Realme. <hi>4.</hi> And a prohibition to men of hoſpitalitie from remoouing from their habitation in the time of dearth. <hi>5.</hi> And finally a ſtrait commandement to all Officers hauing charge of Forts to reſide thereon perſonally, and no inhabitant to depart from the Sea coast.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Queenes Maieſtie hauing had of late time conſideration of great dearth growen in ſundry parts of her Realme, iudging that the rich Owners of corne would keepe their ſtore from common Markets, thereby to increaſe the prices thereof, and ſo the multitude of her poore people hauing no graine growing of their owne, to ſuſteine great lacke, cauſed ſpeciall orders to be made and publi<g ref="char:EOLhyphen"/>ſhed to all parts of her Realme, in what ſort the Iuſtices of peace in euery quar<g ref="char:EOLhyphen"/>ter ſhould ſtay all Ingroſſers, Foreſtallers, and Regraters of Corne, and to di<g ref="char:EOLhyphen"/>rect all Owners and Farmers hauing Corne to furniſh the Markets ratably and weekly with ſuch quantities as vſually they had done before time, or rea<g ref="char:EOLhyphen"/>ſonably might and ought to doe: By which orders, many other things were preſcribed to be obſerued for the ſtaying of the dearth, and reliefe of the people: Yet neuertheleſſe, her Maieſtie is informed, that in ſome parts of her Realme the dearth doth not diminiſh, but rather increaſe for lacke of due execution of the ſayd orders, and ſpecially by the couetouſnes of the Owners, forbearing to furniſh the Markets, as reaſonably they might do, and by ſecretly ſelling out of their houſes to a kinde of people that commonly are called Badgers, at prices vnreaſonable, who likewiſe do ſell and regrate the ſame out of the Markets at very high and exceſſiue prices. For remedy whereof, her Maieſtie chargeth all officers to whom the obſeruation of the ſayd orders hath bene directed, preſently as they haue any naturall care of their Chriſtian brethren &amp; Countreymen, being in need, to cauſe all and euery part of the ſayd orders from point to point to be executed, and the offenders againſt the fame to be ſeuerely puniſhed, to the terrour of others. And beſides this manifeſt cauſe giuen of vnneceſſarie increaſe of prices, there is ſpred amongſt her people by the ſayd Ingroſſers and Regraters a falſe report, that there ſhould be much quantitie of Corne caried by Sea out of the Realme, and thereby occaſion giuen of want of Corne to ſerue for the neceſſary vſe of the people of the Realme: By which falſe report, not onely her Maie<g ref="char:EOLhyphen"/>ſties poore people are diſcomforted with the feare of lacke for their ſuſtenance, but alſo the couetous owners of Corne do pretend to preſerue their ſtore, and thereby doe refraine to ſerue the Markets: which ſlanderous re<g ref="char:EOLhyphen"/>port, her Maieſtie doth affirme, for any thing to her knowledge, or for any licence, or ſufferance for carying any Corne out of the Realme, to be vntrue. And yet neuertheleſſe, for that contrary to her Maieſties will, there may be ſome fraud vſed in ſome parts of the Realme, either by her owne officers or by others, where Corne is prouided in ſome one part of her Realme, to be caried by Sea to ſome other place that is knowen to haue need thereof, notwithſtanding by the very ſpeciall orders of all the Ports, there ought none to be caried from Port to Port, but vpon ſpeciall bonds in great ſummes of money to be taken of the owners of the Ships and of the Corne, where ſuch tranſportation ſhall be made, for the true cariage of the ſame to the Ports therein named, and not by any colour or pretence to carie the ſame out of the Realme: And therefore for further prouiſion to be made for auoiding of ſuch fraud, beſides ſuch bondes to be taken, her Maieſtie commandeth and giueth li<g ref="char:EOLhyphen"/>cence to any perſon that ſhall haue cauſe to ſuſpect that any ſuch Corne is or ſhould be ſhipped, or prouided to be ſhipped, by lawfull authoritie to be caried to any other Port, that the ſame may be by fraud caried out of the Realme, ſuch perſon hauing ſuch cauſe to ſuſpect, ſhall giue information thereof to any Iuſtice of peace or pub<g ref="char:EOLhyphen"/>like officer dwelling nere to y<hi rend="sup">e</hi> Port, which Iuſtice or officer ſhal with the ſaid Informer repaire to the Cuſtome houſe of any ſuch Port or Creeke where Corne is ſhipped, or prouided to be ſhipped, and there ſhall duly examine both the officers of the Cuſtome houſe, &amp; the ſellers, buyers, &amp; ſhippers of the Corne, vpon their ſeuerall othes, whether they know of any intention directly or indirectly to haue the ſaid corne to be caried out of the Realme.
+<pb facs="tcp:15968:2" rendition="simple:additions"/> And further alſo when by their othes they ſhall cleare themſelues of any ſuch intention (thereby the ſuſpi<g ref="char:EOLhyphen"/>cion conceiued being cleared) yet the officers of the Ports, that haue authoritie to take bonds, ſhal ſhew the par<g ref="char:EOLhyphen"/>ties, who vpon ſuſpicion ſhall require the ſame, and giue them in writing the contents of the bond with the names of the parties bound, being ſufficient to anſwere the ſame, the true quantitie of the graine, and the Ports, to which it is intended to haue the ſame caried; and, if notwithſtanding ſuch prouiſion of good aſſu<g ref="char:EOLhyphen"/>rance taken, there ſhall afterwards any doubt followe, that notwithſtanding the ſaide bonds, the ſaide Corne ſhalbe caried out of the Realme: the partie that ſhall haue cauſe ſo to ſuſpect the ſame, ſhall repaire to ſome Iu<g ref="char:EOLhyphen"/>ſtice of Peace, whom her Maieſtie doth hereby commaund to examine the trueth at the Port, whereunto the ſaid Corne was appointed. And for that purpoſe the officers of that Port ſhall make plaine declaration, whe<g ref="char:EOLhyphen"/>ther any ſuch Corne, and what quantitie thereof came to that Port within the time limitted. And if by good proofe it ſhall any wayes appeare, that there hath bene any fraud in any officer of the Port, or falſehood in the tranſporter by carying it out of the Realme, the officer of the Port ſhalbe depriued of his office, and ſuffer impri<g ref="char:EOLhyphen"/>ſonment, and make fine to her Maieſtie at her pleaſure. And the tranſporter for carying it out of the Realme, and the ſeller and buyer, or either of them being priuy thereto, ſhall be committed to priſon for the ſpace of one yeere, and the Ship forfeited. And the Informer for his labour and reward ſhall haue both the halfe of the value of the Corne tranſported, and the halfe of the fines impoſed vpon the offenders. And for the trial of theſe offences, and execution of the puniſhments and fines, the ſame ſhalbe tried in her Maieſties Exchequer, as all informations are vpon penall Statutes, where all expedition ſhall bee vſed, or before the Iuſtices of Aſſiſe in their circuites, or before any Iuſtices of Peace in the Seſſions, where the offence ſhall be committed, hauing any authoritie to heare and determine any penall Lawe.</p>
+            <p>Finally her Maieſtie is particularly informed of ſome intentions of ſundry perſons of abilitie to keepe hoſpi<g ref="char:EOLhyphen"/>talitie in their Countreys, to leaue their ſaid hoſpitalities, and to come to the Citie of London, and other Ci<g ref="char:EOLhyphen"/>ties and townes corporate, thereby leauing the reliefe of their poore neighbours, as well for foode, as for good rule, and with couetous minds to liue in London, and about the Citie priuately, and ſo alſo in other Townes corporate, without charge of company; for withſtanding whereof her Maieſtie chargeth all maner of per<g ref="char:EOLhyphen"/>ſons, that ſhall haue any ſuch intention during the time of this dearth, not to breake vp their houſholds, nor to come to the ſaid Citie, or other townes corporate: and all others that haue of late time broken vp their houſ<g ref="char:EOLhyphen"/>holds, to returne to their houſes againe without delay. And whileſt her Maieſtie had thus determined for reliefe of her people to ſtay all good houſeholders in their Countreys, there in charitable ſort to keepe hoſpita<g ref="char:EOLhyphen"/>litie, her Maieſtie hath had an inſtant occaſion giuen her to extend her commandement euen for the neceſſary defence of her Realme: willing and ſtraitly commaunding all maner of perſons that be deputies to any Lieu<g ref="char:EOLhyphen"/>tenants in any Counties of the Realme, to repaire to their Countreys; And that all perſons hauing charge of any Caſtles or Forts vpon the Sea coaſtes, do preſently repaire to their charge, and there to reſide perſonally during all this Winter ſeaſon, and to haue care how the ſame Fortes are furniſhed, and to make petition for their defects. And likewiſe her Maieſtie chargeth all perſons dwelling in any Port towne to continue their habitation there, and to furniſh their houſeholds with able perſons for defence of the ſaid Ports. Theſe her Maieſties preſent co<g ref="char:cmbAbbrStroke">̄</g>mandements her highneſſe mindeth and willeth to be enquired of by the Lieutenants of euery Shire, and ſpecially by them of the Maritime Counties, whom her Maieſtie chargeth to enquire dili<g ref="char:EOLhyphen"/>gently hereof, and by their commandements to ſee the defaults reformed, or otherwiſe to aduertiſe her Ma<g ref="char:EOLhyphen"/>ieſtie or her priuie Counſell of the offenders. The obſeruation of all which, her Maieſties commaundement is to be performed vpon paine of her Maieſties heauie indignation.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Mannour of Richmond <date>the ſecond day of Nouember <hi>1596.</hi> in the eight and thirtieth yeere of her Maieſties reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
